@@ -125,7 +125,7 @@ A sample video showcasing the trained agent's behavior is included in this repos
 
 ## 🤝 Contributors
 
-- **Your Name** — Initial work.
+- **Your Name** — Shresht Sanjay Prasad
 
 ---
 
